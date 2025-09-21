@@ -1,8 +1,10 @@
 **Customer Risk Scoring Model**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://risk-scoring-model.streamlit.app/)
 
 A simple web application that predicts the financial risk category of a bank customer using a machine learning model.
+
+![Customer Risk Scoring Model](https://github.com/AnkitXV/risk-scoring-model/blob/main/riskmodel.png?raw=true)
 
 **Objective**
 
@@ -16,3 +18,5 @@ This project is a demonstration of how machine learning can be used to automate 
 
 Technologies Used* **Language:** Python* 
 **Libraries:** Pandas, NumPy, Scikit-learn **Environment:** Jupyter Notebook
+
+Created by [Ankit](https://www.linkedin.com/in/izankit/)
