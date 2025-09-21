@@ -4,7 +4,7 @@
 
 A simple web application that predicts the financial risk category of a bank customer using a machine learning model.
 
-![Customer Risk Scoring Model](https://github.com/AnkitXV/risk-scoring-model/blob/main/riskmodel.png?raw=true)
+<img src="https://github.com/AnkitXV/risk-scoring-model/blob/main/riskmodel.png?raw=true" alt="Customer Risk Scoring Model" width="500"/>
 
 **Objective**
 
