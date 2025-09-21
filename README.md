@@ -10,13 +10,13 @@ A simple web application that predicts the financial risk category of a bank cus
 
 This project is a demonstration of how machine learning can be used to automate customer risk classification for Anti-Money Laundering (AML) and Know Your Customer (KYC) regulations in banking. The model classifies customers into Low, Medium, or High-risk categories.
 
- Features
+ **Features**
 
  An interactive web interface built with Streamlit.
  Real-time risk prediction based on user input.
  A classification model trained on a synthetically generated dataset.
 
-Technologies Used* **Language:** Python* 
+Technologies Used **Language:** Python
 **Libraries:** Pandas, NumPy, Scikit-learn **Environment:** Jupyter Notebook
 
 Created by [Ankit](https://www.linkedin.com/in/izankit/)
