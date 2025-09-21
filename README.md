@@ -16,7 +16,7 @@ This project is a demonstration of how machine learning can be used to automate 
  Real-time risk prediction based on user input.
  A classification model trained on a synthetically generated dataset.
 
-Technologies Used **Language:** Python
+Technologies Used - **Language:** Python
 **Libraries:** Pandas, NumPy, Scikit-learn **Environment:** Jupyter Notebook
 
 Created by [Ankit](https://www.linkedin.com/in/izankit/)
